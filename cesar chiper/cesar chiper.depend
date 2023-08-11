@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673799560 source:d:\lab\parallel processing\cesar chiper\main.c
+	<stdio.h>
+	<ctype.h>
+
+1691166062 source:d:\lab\crypto\cesar chiper\main.c
+	<stdio.h>
+	<ctype.h>
+

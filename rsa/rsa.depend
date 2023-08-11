@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675454841 source:d:\lab\crypto\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
